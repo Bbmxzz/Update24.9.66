@@ -1,0 +1,29 @@
+:root{
+    --primary-color: #ee1a4f;
+    --dark-color: #181616;
+    --light-color: #ffffff;
+    --danger-color: #f12323;
+    --success-color: #6bff3e;
+}
+
+.text-left{
+    text-align:left ;
+    color: var(--light-color);
+    padding-right: 5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+.box{
+  align-items: center;
+  min-width: 4rem;
+  background-color: #2b2b2b;
+  color: var(--light-color);
+}
+
+.lead{
+    font-size: 1.0rem;
+}
+.center{
+    align-items: center;
+}
