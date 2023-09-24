@@ -1,0 +1,13 @@
+img {
+    width: 20vh;
+    height : 20vh;
+    object-fit: cover;
+   }
+.shape{
+    border-style:solid;
+    border-color: black;
+    background-color: rgb(255, 254, 252);
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
